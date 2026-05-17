@@ -238,6 +238,10 @@ cd frontend && npm run build
 cd backend && npm start
 ```
 
+## 📚 Documentation
+
+- [MongoDB Setup Guide](docs/MONGODB_SETUP.md)
+
 ## 🎯 Roadmap Snapshot
 
 - ✅ Resource discovery with multi-filter and cross-branch queries
