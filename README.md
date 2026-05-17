@@ -244,6 +244,7 @@ cd backend && npm start
 - [MongoDB Migration Guide](docs/MONGODB_MIGRATION.md)
 - [Implementation Summary](docs/IMPLEMENTATION_SUMMARY.md)
 - [API Reference](docs/API_REFERENCE.md)
+- [Testing Suite Documentation](docs/TESTING.md)
 
 ## 🎯 Roadmap Snapshot
 
