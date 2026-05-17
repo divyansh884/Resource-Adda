@@ -243,6 +243,7 @@ cd backend && npm start
 - [MongoDB Setup Guide](docs/MONGODB_SETUP.md)
 - [MongoDB Migration Guide](docs/MONGODB_MIGRATION.md)
 - [Implementation Summary](docs/IMPLEMENTATION_SUMMARY.md)
+- [API Reference](docs/API_REFERENCE.md)
 
 ## 🎯 Roadmap Snapshot
 
