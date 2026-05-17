@@ -245,6 +245,7 @@ cd backend && npm start
 - [Implementation Summary](docs/IMPLEMENTATION_SUMMARY.md)
 - [API Reference](docs/API_REFERENCE.md)
 - [Testing Suite Documentation](docs/TESTING.md)
+- [Testing Status Report](docs/TEST_RESULTS.md)
 
 ## 🎯 Roadmap Snapshot
 
