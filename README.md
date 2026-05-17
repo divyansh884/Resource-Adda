@@ -241,6 +241,7 @@ cd backend && npm start
 ## 📚 Documentation
 
 - [MongoDB Setup Guide](docs/MONGODB_SETUP.md)
+- [MongoDB Migration Guide](docs/MONGODB_MIGRATION.md)
 
 ## 🎯 Roadmap Snapshot
 
